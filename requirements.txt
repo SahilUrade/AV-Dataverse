@@ -1,7 +1,6 @@
 jupyterlab==v3.2.2
 numpy
 pandas
-os
 torch
 PIL
 matplotlib
