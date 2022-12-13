@@ -1,6 +1,12 @@
 jupyterlab==v3.2.2
 numpy
 pandas
+os
+torch
+PIL
+matplotlib
+cv2
+torchvision
 jupyterlab-language-pack-pl-pl>=3.1.post5
 jupyterlab-language-pack-tr-TR>=3.1.post5
 jupyterlab-language-pack-el-GR>=3.1.post5
