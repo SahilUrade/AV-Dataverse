@@ -2,7 +2,6 @@ jupyterlab==v3.2.2
 numpy
 pandas
 torch
-PIL
 matplotlib
 cv2
 torchvision
