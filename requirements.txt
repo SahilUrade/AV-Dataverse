@@ -3,7 +3,7 @@ numpy
 pandas
 torch
 matplotlib
-cv2
+opencv-python
 torchvision
 jupyterlab-language-pack-pl-pl>=3.1.post5
 jupyterlab-language-pack-tr-TR>=3.1.post5
