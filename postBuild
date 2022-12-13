@@ -1,2 +1,2 @@
-wget -q -O "https://datahack.analyticsvidhya.com/contest/dataverse-hack/download/train-file"
-wget -q -O "https://datahack.analyticsvidhya.com/contest/dataverse-hack/download/test-file"
+wget -q -O https://datahack.analyticsvidhya.com/contest/dataverse-hack/download/train-file
+wget -q -O https://datahack.analyticsvidhya.com/contest/dataverse-hack/download/test-file
